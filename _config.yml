@@ -2,10 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://novisutd.com
+title: Novis
+subtitle: UT Dallas's Premiere A Cappella Group
 simple_search: https://www.google.com/search
 description:
 
