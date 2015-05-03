@@ -1,4 +1,10 @@
 <p>
-  Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }} -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  <section id="recentVideos" class="grid_8">
+    <h3>Recent Videos</h3>
+    <ul>
+      {% for item in site.youtube_videos %}
+      <li>Hello</li>
+      {% endfor %}
+    </ul>
+  </section>
 </p>
