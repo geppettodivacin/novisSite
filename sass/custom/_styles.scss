@@ -1,2 +1,19 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+td
+{
+	padding-right: 15px;
+	padding-left: 15px;
+	border-right: dashed 1px;
+	border-left: dashed 1px;
+}
+
+table td:first-child
+{
+	border-left: none;
+}
+table td:last-child
+{
+	border-right: none;
+}
