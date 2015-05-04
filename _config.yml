@@ -100,7 +100,11 @@ google_analytics_tracking_id:
 facebook_like: false
 
 youtube_videos:
-  - dsXKXqiibW8
-  - F3S-h2FUisU
-  - OqUdTXzvGwY
-  - hxSulj0xvcc
+  - id: dsXKXqiibW8
+    title: Run to You
+  - id: F3S-h2FUisU
+    title: Pompeii
+  - id: OqUdTXzvGwY
+    title: Hey Soul Sister
+  - id: hxSulj0xvcc
+    title: Kaleidoscope Heart
