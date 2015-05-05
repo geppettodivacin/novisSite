@@ -23,7 +23,7 @@ td
 	padding-left: 15px;
 	border-right: dashed 1px;
 	border-left: dashed 1px;
-    white-space: nowrap;
+	white-space: nowrap;
 }
 
 table td:first-child
@@ -35,6 +35,70 @@ table td:last-child
 	border-right: none;
 }
 
+.rounded
+{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#banner-wrap {
+	clear: both;
+	background-color: #7775d5;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #bba67b;
+	padding-top: 45px;
+	padding-left: 45px;
+	z-index: 0;
+}
+#banner
+{
+	background-color: #111111;
+	padding: 40px 30px;
+	width: 95%;
+	color: #fff;
+	position: relative;
+	z-index: 3;
+}
+#banner p
+{
+	font-size: smaller;
+}
+#featured {
+	float: right;
+}
+#featured img:first-child {
+	position: relative;
+	left: 100px;
+	top: -20px;
+	width: 230px;
+}
+#featured img {
+	clear: both;
+	width: 200px;
+	-webkit-box-shadow: 0 3px 15px #443730;
+	-moz-box-shadow: 0 3px 15px #443730;
+	box-shadow: 0 3px 15px #443730;
+}
+#breadcrumbs {
+	background: #4241c5;
+	background: -moz-linear-gradient(
+		top,
+		#4241c5,
+		#0000a0
+	);
+	line-height: 43px;
+	position: relative;
+	z-index: 2;
+	top: -30px;
+	padding: 3px 30px 0;
+	width: 95%;
+	color: #fff;
+	text-shadow: 0 -1px 0 #733814;
+}
+	
+	
+
 .fb-like-wrapper *
 {
 	width: 100% !important;
@@ -42,15 +106,15 @@ table td:last-child
 
 .credit
 {
-    color: #29293d;
+	color: #29293d;
 }
 .credit a:link
 {
-    color: #29293d;
+	color: #29293d;
 }
 .credit a:visited
 {
-    color: #39393d;
+	color: #39393d;
 }
 
 
@@ -65,10 +129,10 @@ $pad: 20px;
   margin: 0 0 $pad 0;
 
   &:after {
-    /* Or @extend clearfix */
-    content: "";
-    display: table;
-    clear: both;
+	/* Or @extend clearfix */
+	content: "";
+	display: table;
+	clear: both;
   }
 }
 
@@ -76,8 +140,11 @@ $pad: 20px;
   float: left;
   padding-right: $pad;
   .grid &:last-of-type {
-    padding-right: 0;
+	padding-right: 0;
   }
+}
+.col-1-1 {
+  width: 100%;
 }
 .col-2-3 {
   width: 66.66%;
@@ -106,6 +173,6 @@ $pad: 20px;
 .grid-pad {
   padding: $pad 0 $pad $pad;
   [class*='col-']:last-of-type {
-    padding-right: $pad;
+	padding-right: $pad;
   }
 }

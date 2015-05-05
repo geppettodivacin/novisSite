@@ -4,6 +4,22 @@ layout: default
 
 <div class="blog-index">
   {% assign index = true %}
+
+  <div id="banner-wrap">
+    <section id="banner" class="grid rounded">
+      <h2>UTD's Premier A Cappella Ensemble</h2>
+      <aside id="featured">
+        <img src="/images/concertSillySpring2015.jpg" alt="Featured"/><img src="/images/novisPiano.jpg" alt="Featured"/>
+      </aside>
+      <p>UT Dallas' premier a cappella ensemble, Novis is the leading
+      definition of new direction: completely student-run and performing
+      compositions by university students. They perform a variety of modern a
+      cappella music at concerts and events, both on and off campus. Novis is
+      currently directed by Julia Burroughs.</p>
+    </section>
+    <p id="breadcrumbs" class="grid rounded">Test</p></div> <!-- end banner-wrap -->
+  </div>
+
   {% for post in paginator.posts %}
   {% assign content = post.content %}
     <article>
