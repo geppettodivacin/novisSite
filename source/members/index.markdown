@@ -2,6 +2,7 @@
 layout: page
 title: "members"
 footer: true
+sidebar: false
 ---
 
 | | |
