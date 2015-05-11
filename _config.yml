@@ -111,6 +111,20 @@ banner_text: |
 
 upcoming_event: Fall audition date coming soon!
 
+contact:
+  president:
+    name: Brendan Caseria
+    email: novis@novisutd.com
+  director:
+    name: Julia Burroughs
+    email: director@novisutd.com
+  social:
+    name: Eric Dilmore & Frankie Imperial
+    email: social@novisutd.com
+  advisor:
+    name: Kathryn Evans
+    email: kcevans@utdallas.edu
+
 member_current:
   - name: Natsumi Bailey
     part: Soprano
@@ -204,12 +218,6 @@ member_alumni:
     year: 2013
   - name: Eli Aalderink
     year: 2013
-  - name: Sammy Lutes
-    year: 2014
-  - name: Mark SanGiorgio
-    year: 2014
-  - name: Melania Amaya
-    year: 2014
   - name: Andrew McCament
     year: 2014
   - name: Abigail Madsen
@@ -225,6 +233,12 @@ member_alumni:
   - name: Kristina Arnst
     year: 2014
   - name: Morgan Stone
+    year: 2014
+  - name: Sammy Lutes
+    year: 2014
+  - name: Mark SanGiorgio
+    year: 2014
+  - name: Melania Amaya
     year: 2014
   - name: Albert Ok
     year: 2014
