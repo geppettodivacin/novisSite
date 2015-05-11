@@ -98,6 +98,17 @@ google_analytics_tracking_id:
 # Facebook Like
 facebook_like: false
 
+banner_pictures:
+  - /images/concertSillySpring2015.jpg
+  - /images/novisPiano.jpg
+
+banner_text: |
+  UT Dallas's premier a cappella ensemble, Novis is the leading definition of
+  new direction: completely student-run and performing compositions by
+  university students. They perform a variety of modern a cappella music at
+  concerts and events, both on and off campus. Novis is currently directed by
+  Julia Burroughs.
+
 youtube_videos:
   - id: dsXKXqiibW8
     title: Run to You
