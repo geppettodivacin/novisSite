@@ -5,6 +5,8 @@ footer: true
 sidebar: false
 ---
 
+{% img right-align /images/concertSpring2015.jpg 400 %}
+
 | | |
 | ---------------- | ---------- |
 | Natsumi Bailey   | Soprano |
