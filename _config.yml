@@ -109,6 +109,124 @@ banner_text: |
   concerts and events, both on and off campus. Novis is currently directed by
   Julia Burroughs.
 
+member_current:
+  - name: Natsumi Bailey
+    part: Soprano
+  - name: Julia Burroughs
+    part: Soprano
+  - name: Jeanette George
+    part: Soprano
+  - name: Shelby Koenig
+    part: Soprano
+  - name: Ruchi Kumar
+    part: Alto
+  - name: Mckena Roberts
+    part: Alto
+  - name: Peter Weiss
+    part: Tenor
+  - name: Frankie Imperial
+    part: Tenor
+  - name: Costa Skevofilax
+    part: Tenor
+  - name: Robert Beisert
+    part: Bass
+  - name: Brendan Caseria
+    part: Bass
+  - name: Eric Dilmore
+    part: Bass
+  - name: Philip Ross
+    part: Bass
+  - name: Ryan Scott
+    part: Bass
+
+member_alumni:
+  - name: Jerry Li
+    year: 2009
+  - name: Braden Herndon
+    year: 2009
+  - name: Chana Pickett
+    year: 2009
+  - name: Brittany Farrel
+    year: 2009
+  - name: Kara Ragland
+    year: 2009
+  - name: Jackie Smith
+    year: 2009
+  - name: Andrew Pham
+    year: 2009
+  - name: Rebecca Rodda
+    year: 2009
+  - name: Jason Rodda
+    year: 2009
+  - name: Ruben Rosales
+    year: 2010
+  - name: Austin Atherton
+    year: 2010
+  - name: Rachael Bernstein
+    year: 2010
+  - name: Daniel Gonzales
+    year: 2010
+  - name: Brian Hernandez
+    year: 2010
+  - name: Sara Arnold
+    year: 2010
+  - name: Emily Bowersox
+    year: 2010
+  - name: Mark Cordell
+    year: 2011
+  - name: Emily McCoy
+    year: 2011
+  - name: Apoorva Anupindi
+    year: 2012
+  - name: Michael Shell
+    year: 2012
+  - name: Elizabeth Petruy
+    year: 2012
+  - name: Emily Becker
+    year: 2012
+  - name: Caleb Phillips
+    year: 2012
+  - name: Claire Bruce
+    year: 2012
+  - name: Sharon Jacob
+    year: 2012
+  - name: Emily Trusky
+    year: 2012
+  - name: Riley Firth
+    year: 2012
+  - name: Caitlin Morrow
+    year: 2012
+  - name: Victoria Aranda
+    year: 2013
+  - name: Alex Luna
+    year: 2013
+  - name: Eli Aalderink
+    year: 2013
+  - name: Sammy Lutes
+    year: 2014
+  - name: Mark SanGiorgio
+    year: 2014
+  - name: Melania Amaya
+    year: 2014
+  - name: Andrew McCament
+    year: 2014
+  - name: Abigail Madsen
+    year: 2014
+  - name: Casey Sublet
+    year: 2014
+  - name: Julia Pauletti
+    year: 2014
+  - name: Priya Matthew
+    year: 2014
+  - name: Franklin Co
+    year: 2014
+  - name: Kristina Arnst
+    year: 2014
+  - name: Morgan Stone
+    year: 2014
+  - name: Albert Ok
+    year: 2014
+
 youtube_videos:
   - id: dsXKXqiibW8
     title: Run to You
