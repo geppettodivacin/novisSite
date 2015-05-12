@@ -6,7 +6,7 @@ sidebar: false
 ---
 
 <div class="grid">
-  <div class="col-2-3 grid">
+  <div id="contact-div" class="col-2-3 grid">
     <form name="contactUsForm" action="confirm_contact" onsubmit="return validateForm();" method="post">
       <label for="name" class="col-1-2">Name</label>
       <label for="email" class="col-1-2">Email Address</label>
@@ -22,7 +22,7 @@ sidebar: false
     </form>
   </div>
 
-  <aside class="sidebar">
+  <aside id="more-contact" class="side col-1-3">
     <h3>Additional Contact</h3>
     <ul>
       <li><h4>President:</h4>{{ site.contact.president.name }} - <a href="mailto:{{ site.contact.president.email }}">{{ site.contact.president.email }}</a></li>

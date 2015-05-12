@@ -47,7 +47,42 @@ table td:last-child
 	float: right;
 }
 
-#banner-wrap {
+.side
+{
+	img
+	{
+		@extend .flex-content;
+		@extend .basic-alignment;
+		@include shadow-box($border: #fff .3em solid);
+	}
+	ul
+	{
+		margin-bottom: 0.5em;
+		margin-left: 0;
+	}
+	li
+	{
+		list-style: none;
+		padding: .5em 0;
+		margin: 0;
+		border-bottom: 1px solid $sidebar-border;
+		@extend .side-shadow-border;
+		p:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+
+#contact-div
+{
+	padding-right: 15px;
+}
+#more-contact
+{
+	padding-left: 15px;
+}
+#banner-wrap
+{
 	clear: both;
 	background-color: #7775d5;
 	padding-bottom: 15px;
