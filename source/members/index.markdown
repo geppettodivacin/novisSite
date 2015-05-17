@@ -5,13 +5,21 @@ footer: true
 sidebar: false
 ---
 
-{% img right-align /images/concertSpring2015.jpg 400 %}
-
+<div class="grid">
+<div class="col-1-3"/>
 <table>
 {% for member in site.member_current %}
 <tr><td>{{ member.name }}</td><td>{{ member.part }}</td></tr>
 {% endfor %}
 </table>
+</div>
+<div class="left-align"/>
+
+{% img middle-vert /images/womenSpring2015.jpg 300 %}
+{% img middle-vert /images/menSpring2015.jpg 300 %}
+
+</div>
+</div>
 
 Novis Alumni
 ------------
