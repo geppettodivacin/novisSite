@@ -73,6 +73,16 @@ table td:last-child
 	}
 }
 
+#newshead
+{
+	position: absolute;
+}
+#newshead h1
+{
+	position: relative;
+	left: 32px;
+	top: 15px;
+}
 #contact-div
 {
 	padding-right: 15px;
