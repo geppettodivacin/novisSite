@@ -234,3 +234,50 @@ $pad: 20px;
 	padding-right: $pad;
   }
 }
+
+/* Google Form CSS */
+.google-form-wrapper {
+  .required-message {
+    display: none;
+  }
+  .ss-required-asterisk {
+    display: none;
+  }
+  .ss-secondary-text {
+    font-size: smaller;
+    color: gray;
+  }
+  .error-message {
+    display: none;
+  }
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  .errorbox-good {
+    margin-bottom: 20px;
+  }
+  .success-msg {
+    display: none;
+  }
+  .ss-form-entry {
+    label {
+      display:block;
+    }
+    input {
+      display: block;
+      padding: 5px;
+      width: 250px;
+      font: inherit;
+    }
+    textarea {
+      width: 450px;
+      padding: 5px;
+      font: inherit;
+    }
+  }
+  .ss-navigate input {
+    width: auto;
+    cursor: pointer;
+  }
+}

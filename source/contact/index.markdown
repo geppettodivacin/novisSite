@@ -6,20 +6,8 @@ sidebar: false
 ---
 
 <div class="grid">
-  <div id="contact-div" class="col-2-3 grid">
-    <form name="contactUsForm" action="confirm_contact" onsubmit="return validateForm();" method="post">
-      <label for="name" class="col-1-2">Name</label>
-      <label for="email" class="col-1-2">Email Address</label>
-      <input type="text" name="name" value="Name" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Name':this.value;" class="col-1-2" />
-      <input type="text" name="email" value="Email" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Email':this.value;" class="col-1-2" />
-      <label for="social" class="col-1-2">How did you hear about us?</label>
-      <label for="reason" class="col-1-2">Reason for Inquiry</label>
-      <input type="text" name="social" value="Facebook, Twitter, Google, etc." onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Facebook, Twitter, Google, etc.':this.value;" class="col-1-2" />
-      <input type="text" name="reason" value="Want to auditon/book/etc." onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Want to auditon/book/etc.':this.value;" class="col-1-2" />
-      <label for="question" class="col-1-1">Message Area</label>
-      <textarea name="question" onclick="this.value='';" onfocus="this.select()" onblur="this.value=!this.value?'Questions?':this.value;" class="col-1-1">Questions?</textarea>
-      <p class="col-1-1"><button type="submit">Submit</button><button type="reset">Reset</button></p>
-    </form>
+  <div class="col-2-3">
+    {% google_form 1OYdFt2ZvcGzNvsxqTN8Mg_Xs4U129HaJpGIZeL4QC7g Thank you for contacting us. We will return your email as soon as possible. %}
   </div>
 
   <aside id="more-contact" class="side col-1-3">
