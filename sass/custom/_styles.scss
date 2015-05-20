@@ -237,6 +237,15 @@ $pad: 20px;
 
 /* Google Form CSS */
 .google-form-wrapper {
+  .required-message {
+    display: none;
+  }
+  .ss-required-asterisk {
+    display: none;
+  }
+  .error-message {
+    display: none;
+  }
   .error {
     color: red;
     font-size: 12px;

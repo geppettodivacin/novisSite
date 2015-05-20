@@ -21,13 +21,10 @@
         $(form)
           .ajaxSubmit({
             success: function(data) {
-              if (data) {
-                $(form)
-                .hide(200, function() {
-                  $(this)
-                    .prev('.success-msg')
-                    .fadeIn('slow')
-                })
+              $(form)
+              .hide(200, function() {
+                $(this)
+                  .fadeIn('slow')
               }
             },
             error : function (data) {

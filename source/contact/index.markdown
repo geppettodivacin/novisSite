@@ -6,7 +6,9 @@ sidebar: false
 ---
 
 <div class="grid">
-  {% google_form 1OYdFt2ZvcGzNvsxqTN8Mg_Xs4U129HaJpGIZeL4QC7g Thank you for contacting us. We will return your email as soon as possible. %}
+  <div class="col-2-3">
+    {% google_form 1OYdFt2ZvcGzNvsxqTN8Mg_Xs4U129HaJpGIZeL4QC7g Thank you for contacting us. We will return your email as soon as possible. %}
+  </div>
 
   <aside id="more-contact" class="side col-1-3">
     <h3>Additional Contact</h3>
