@@ -13,12 +13,8 @@ sidebar: false
   <aside id="booking" class="side col-1-3">
     <h3>Want Novis to sing for your event?</h3>
     We sing the UT Dallas Alma Mater and Star-Spangled Banner for FREE at on-campus events!
-
-    If you'd like us to sing a song from our repertoire, request a song, or have us sing off-campus, here is our fee:
-
-    <ul class="bullets">
-      <li><strong>$25 per song</strong></li>
-      <li><strong>$50 for custom requests</strong><br>(4-week advance notice)</li>
-    </ul>
+    <br>
+    <br>
+    If you'd like us to sing a song from our repertoire, request a song, or have us sing off-campus, contact us about pricing!
   </aside>
 </div>
