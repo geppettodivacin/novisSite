@@ -175,28 +175,28 @@ repertoire:
       - title: Lights
         arranger: Ellie Goulding
       - title: May It Be
-        arranger: The Lord of the Rings: The Fellowship of the Ring
+        arranger: "The Lord of the Rings: The Fellowship of the Ring"
       - title: Sons of Skyrim
-        arranger: The Elder Scrolls V: Skyrim
+        arranger: "The Elder Scrolls V: Skyrim"
       - title: Spooky
         arranger: as performed by Imogen Heap
   - name: Novis Bash 2011
     songs:
       - title: Alice in Wonderland 
-        youtube: http://www.youtube.com/watch?v=BKyYpkktUw4
+        youtube: "http://www.youtube.com/watch?v=BKyYpkktUw4"
       - title: Hey, Soul Sister 
-        youtube: http://www.youtube.com/watch?v=WPijUA_t9iI
+        youtube: "http://www.youtube.com/watch?v=WPijUA_t9iI"
         arranger: Train
       - title: Listen to the Music 
-        youtube: http://www.youtube.com/watch?v=qrXVSfrlTrE
+        youtube: "http://www.youtube.com/watch?v=qrXVSfrlTrE"
         arranger: The Doobie Brothers
       - title: Magic 
-        youtube: http://www.youtube.com/watch?v=LLp4SAbK45s
+        youtube: "http://www.youtube.com/watch?v=LLp4SAbK45s"
         arranger: Ben Folds
       - title: Rolling in the Deep 
-        youtube: http://www.youtube.com/watch?v=l-mqW6JGk8w
+        youtube: "http://www.youtube.com/watch?v=l-mqW6JGk8w"
         arranger: Adele
-  - name: Peace, Love, 'n Harmony
+  - name: "Peace, Love, 'n Harmony"
     songs:
       - title: I Got You (I Feel Good)
         arranger: James Brown
@@ -205,15 +205,15 @@ repertoire:
       - title: Blackbird
         arranger: The Beatles
       - title: Kiss From a Rose 
-        youtube: http://www.youtube.com/watch?v=d-cDVcd6blI
+        youtube: "http://www.youtube.com/watch?v=d-cDVcd6blI"
         arranger: Seal
       - title: All You Need is Love
         arranger: The Beatles
       - title: Hey, Soul Sister 
-        youtube: http://www.youtube.com/watch?v=WPijUA_t9iI
+        youtube: "http://www.youtube.com/watch?v=WPijUA_t9iI"
         arranger: Train
       - title: Halo 
-        youtube: http://www.youtube.com/watch?v=SRfuzf3O6AM
+        youtube: "http://www.youtube.com/watch?v=SRfuzf3O6AM"
         arranger: Beyonce
       - title: Somebody to Love
         arranger: Queen
@@ -224,44 +224,44 @@ repertoire:
       - title: Walking on Sunshine
         arranger: Katrina and the Waves
       - title: Title of the Song 
-        youtube: http://www.youtube.com/watch?v=734wnHnnNR4
+        youtube: "http://www.youtube.com/watch?v=734wnHnnNR4"
         arranger: Da Vinci's Notebook
   - name: Novis Sings Walt Disney
     songs:
       - title: Be Prepared 
-        youtube: http://www.youtube.com/watch?v=FA2JUgEsTgI
+        youtube: "http://www.youtube.com/watch?v=FA2JUgEsTgI"
         arranger: The Lion King
       - title: Can You Feel the Love Tonight
         arranger: The Lion King
       - title: Everybody Wants to be a Cat 
-        youtube: http://www.youtube.com/watch?v=Kgt6dm9dugc
+        youtube: "http://www.youtube.com/watch?v=Kgt6dm9dugc"
         arranger: The Aristocats
       - title: God Help the Outcasts 
-        youtube: http://www.youtube.com/watch?v=eDbSYNKrDrE
+        youtube: "http://www.youtube.com/watch?v=eDbSYNKrDrE"
         arranger: The Hunchback of Notre Dame
       - title: Go the Distance 
-        youtube: http://www.youtube.com/watch?v=py6Xu77lpB8
+        youtube: "http://www.youtube.com/watch?v=py6Xu77lpB8"
         arranger: Hercules
       - title: Hakuna Matata
         arranger: The Lion King
       - title: I Wanna Be Like You 
-        youtube: http://www.youtube.com/watch?v=CjK4AqxFgZw
+        youtube: "http://www.youtube.com/watch?v=CjK4AqxFgZw"
         arranger: The Jungle Book
       - title: I Won't Say I'm in Love 
-        youtube: http://www.youtube.com/watch?v=BCgtZZlje0o
+        youtube: "http://www.youtube.com/watch?v=BCgtZZlje0o"
         arranger: Hercules
       - title: Kiss the Girl 
-        youtube: http://www.youtube.com/watch?v=AZBeBdsfx4E
+        youtube: "http://www.youtube.com/watch?v=AZBeBdsfx4E"
         arranger: The Little Mermaid
       - title: Seize the Day 
-        youtube: http://www.youtube.com/watch?v=fcngHD_zL14
+        youtube: "http://www.youtube.com/watch?v=fcngHD_zL14"
         arranger: Newsies
       - title: Under the Sea
         arranger: The Little Mermaid
       - title: Zero to Hero
-        youtube: http://www.youtube.com/watch?v=ylhVkDfS-TE
+        youtube: "http://www.youtube.com/watch?v=ylhVkDfS-TE"
         arranger: Hercules
-  - name: Novis: A Night At the Movies
+  - name: "Novis: A Night At the Movies"
     songs:
       - title: Because
         arranger: Across The Universe (Beatles)
@@ -276,26 +276,26 @@ repertoire:
       - title: Time Warp
         arranger: The Rocky Horror Picture Show
       - title: The Grid / The Game Has Changed
-        arranger: Walt Disney's Tron: Legacy
+        arranger: "Walt Disney's Tron: Legacy"
   - name: Novis Nerdfest
     songs:
       - title: Cartoon Medley
-        youtube: http://www.youtube.com/watch?v=45pE2wthPCk
+        youtube: "http://www.youtube.com/watch?v=45pE2wthPCk"
         arranger: Andrew Mitchell
       - title: Do You Wanna Date My Avatar 
-        youtube: http://www.youtube.com/watch?v=IgRKmeK3uZA
+        youtube: "http://www.youtube.com/watch?v=IgRKmeK3uZA"
         arranger: The Guild
       - title: John Williams is the Man 
-        youtube: http://www.youtube.com/watch?v=wTuIIIcwNn8
+        youtube: "http://www.youtube.com/watch?v=wTuIIIcwNn8"
         arranger: Moosebutter
       - title: Pokemon Theme 
-        youtube: http://www.youtube.com/watch?v=7-5WvSt2pdo
+        youtube: "http://www.youtube.com/watch?v=7-5WvSt2pdo"
         arranger: Siegler, Loeffler
       - title: Portal Medley 
-        youtube: http://www.youtube.com/watch?v=LUY086gY6Ls
+        youtube: "http://www.youtube.com/watch?v=LUY086gY6Ls"
         arranger: Eli Aalderink
       - title: Sci-Fi Medley 
-        youtube: http://www.youtube.com/watch?v=ht24mZ7W_r4
+        youtube: "http://www.youtube.com/watch?v=ht24mZ7W_r4"
         arranger: Andrew Mitchell
   - name: Novis Bash 2010
     songs:
@@ -324,7 +324,7 @@ repertoire:
       - title: And So It Goes
         arranger: Billy Joel
       - title: Don't Stop Believing 
-        youtube: http://www.youtube.com/watch?v=b083Yx2a_DE
+        youtube: "http://www.youtube.com/watch?v=b083Yx2a_DE"
         arranger: Journey
       - title: Jessie's Girl
         arranger: Rick Springfield
