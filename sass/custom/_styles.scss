@@ -35,6 +35,24 @@ table td:last-child
 	border-right: none;
 }
 
+button
+{
+    @extend .rounded;
+    height: 30px;
+	background: -moz-linear-gradient(
+		top,
+		#F3F2F0,
+		#DFDCD9
+	);
+    color: black;
+}
+button:hover
+{
+    border-style: groove;
+    border-color: #6FB8E1;
+    border-width: 2px;
+}
+
 .rounded
 {
 	-moz-border-radius: 5px;
@@ -263,6 +281,11 @@ $pad: 20px;
   }
   .success-msg {
     display: none;
+  }
+  #ss-submit{
+    @extend button;
+    height: 30px;
+    padding-bottom: 30px;
   }
   .ss-form-entry {
     label {
