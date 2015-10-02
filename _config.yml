@@ -26,7 +26,7 @@ banner_text: |
   Julia Burroughs.
 
 upcoming_event: |
-  Fall auditions coming on August 22-23 from 2-6 PM! Scroll down for details.
+  Our fall concert will be on Saturday, November 14 at 7:00 PM!
 
 contact:
   president:
@@ -47,29 +47,37 @@ member_current:
     part: Soprano
   - name: Julia Burroughs
     part: Soprano
-  - name: Jeanette George
-    part: Soprano
   - name: Shelby Koenig
     part: Soprano
+  - name: Amy Austin
+    part: Alto
   - name: Ruchi Kumar
+    part: Alto
+  - name: Priya Matthew
     part: Alto
   - name: Mckena Roberts
     part: Alto
-  - name: Peter Wynne
+  - name: Karla Silva
+    part: Alto
+  - name: Christian Arms
+    part: Tenor
+  - name: Christian Cortes
     part: Tenor
   - name: Frankie Imperial
     part: Tenor
   - name: Costa Skevofilax
     part: Tenor
-  - name: Robert Beisert
-    part: Bass
+  - name: Peter Wynne
+    part: Tenor
   - name: Brendan Caseria
     part: Bass
   - name: Eric Dilmore
     part: Bass
-  - name: Philip Ross
+  - name: Sam Grayson
     part: Bass
-  - name: Ryan Scott
+  - name: Jonathon Reich
+    part: Bass
+  - name: Philip Ross
     part: Bass
 
 member_alumni:
@@ -143,8 +151,6 @@ member_alumni:
     year: 2014
   - name: Julia Pauletti
     year: 2014
-  - name: Priya Matthew
-    year: 2014
   - name: Franklin Co
     year: 2014
   - name: Kristina Arnst
@@ -158,6 +164,12 @@ member_alumni:
   - name: Melania Amaya
     year: 2014
   - name: Albert Ok
+    year: 2014
+  - name: Ryan Scott
+    year: 2014
+  - name: Robert Beisert
+    year: 2014
+  - name: Jeanette George
     year: 2014
 
 repertoire:
