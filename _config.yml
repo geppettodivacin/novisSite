@@ -26,7 +26,7 @@ banner_text: |
   Julia Burroughs.
 
 upcoming_event: |
-  Auditions will be held January 10th from 3:00-6:00 in AH1! Email novis@novisutd.com for more info!
+  Welcome to all the Newvites!
 
 contact:
   president:
@@ -45,29 +45,29 @@ contact:
 member_current:
   - name: Natsumi Bailey
     part: Soprano
-  - name: Julia Burroughs
-    part: Soprano
   - name: Shelby Koenig
+    part: Soprano
+  - name: Thi Le
+    part: Soprano
+  - name: Hasini Sundaresan
     part: Soprano
   - name: Amy Austin
     part: Alto
-  - name: Ruchi Kumar
+  - name: Julia Burroughs
     part: Alto
-  - name: Priya Matthew
+  - name: Tianne Mendenhall
     part: Alto
   - name: Mckena Roberts
     part: Alto
   - name: Karla Silva
     part: Alto
-  - name: Christian Arms
+  - name: Luis Amador
     part: Tenor
-  - name: Christian Cortes
+  - name: Christian Arms
     part: Tenor
   - name: Frankie Imperial
     part: Tenor
   - name: Costa Skevofilax
-    part: Tenor
-  - name: Peter Wynne
     part: Tenor
   - name: Brendan Caseria
     part: Bass
@@ -171,6 +171,14 @@ member_alumni:
     year: 2014
   - name: Jeanette George
     year: 2014
+  - name: Christian Cortes
+    year: 2015
+  - name: Ruchi Kumar
+    year: 2015
+  - name: Priya Matthew
+    year: 2015
+  - name: Peter Wynne
+    year: 2015
 
 repertoire:
   - name: Novis Nerdfest 2.0
